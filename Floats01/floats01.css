@@ -27,7 +27,7 @@ h2 {
 
 .container {
   color: white;
-  font-family: helvetica, arial, sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 header {
@@ -63,6 +63,7 @@ footer {
     clear: both;
   }
 }
+
 @media (min-width: 850px) {
   main {
     width: 50%;
