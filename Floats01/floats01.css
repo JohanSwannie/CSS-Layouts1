@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  background-color: rgb(192, 141, 141);
   padding: 0;
   margin: 0;
   max-width: 1200px;
@@ -32,6 +33,18 @@ h2 {
 
 header {
   background: skyblue;
+}
+
+ul {
+  list-style: none;
+}
+
+nav,
+main,
+aside {
+  height: 50vh;
+  border: 0.2rem solid #fff;
+  border-style: double;
 }
 
 main {
