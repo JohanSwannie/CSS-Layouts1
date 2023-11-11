@@ -43,8 +43,7 @@ nav,
 main,
 aside {
   height: 60vh;
-  border: 0.2rem solid #fff;
-  border-style: double;
+  border: 0.05rem solid #fff;
 }
 
 main {
