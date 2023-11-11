@@ -42,7 +42,7 @@ ul {
 nav,
 main,
 aside {
-  height: 50vh;
+  height: 60vh;
   border: 0.2rem solid #fff;
   border-style: double;
 }
