@@ -6,7 +6,6 @@ html {
 *::after,
 *::before {
   box-sizing: inherit;
-  user-select: none;
 }
 
 body {
@@ -16,8 +15,8 @@ body {
 }
 
 .container {
-  width: 1500px;
-  /* font-size: 0; */
+  width: 1000px;
+  font-size: 0;
 }
 
 p,
